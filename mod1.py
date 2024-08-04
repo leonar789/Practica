@@ -1,6 +1,6 @@
 def mod1():
     for i in range(5):
         if i%2==0:
-            print(i)
+            print(i, 'h')
 
 mod1()
